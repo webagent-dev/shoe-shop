@@ -2,11 +2,11 @@
 <h3 align="center">shoe-shop </h3>
 
   <p align="center">
-      
+      this a modern product page design with Html/Css with a 3d image showcase
     <br />
-    <a href="https://car-dealer-site.netlify.app">Live Site</a>
+    <a href="https://shoes-shops.netlify.app/">Live Site</a>
     ·
-    <a href="https://github.com/webagent-dev/car-dealer-site/issues">Report Bug</a>
+    <a href="https://github.com/webagent-dev/shoe-shop/issues">Report Bug</a>
     ·
 
   </p>
@@ -45,10 +45,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
     
-  <img src="https://user-images.githubusercontent.com/78637825/165221861-76d6ea16-591d-43a2-8978-5612e86bacd3.png" alt="page-image" width="100%" height="100%" >
+  <img src="https://user-images.githubusercontent.com/78637825/165240052-ccb3918b-7374-4c9c-a89e-d3a6ed9b5d59.png" alt="page-image" width="100%" height="100%" >
   
   
-short details: `webagent-dev`, `Javascript `, `HTML/CSS`, `webagent24@gmail`, `OPP`,
+short details: `webagent-dev`, `HTML/CSS`, `webagent24@gmail`,
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -57,8 +57,6 @@ short details: `webagent-dev`, `Javascript `, `HTML/CSS`, `webagent24@gmail`, `O
 ### Built With
 * [Html]
 * [Css]
-* [Javascript ](https://react-reveal.com/)
-* [OPP](https://reactjs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -89,7 +87,7 @@ text editor of your choice e.g VsCode
 ## Usage
 
 After run with live server you would have a local version of the live site on your local machine
-_For more examples, please refer to the [Live Site](https://bigmagicmusic.netlify.app/)_
+_For more examples, please refer to the [Live Site](https://shoes-shops.netlify.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -103,9 +101,9 @@ _For more examples, please refer to the [Live Site](https://bigmagicmusic.netlif
 - [ ] transitions
 - [ ]sorting
 - [ ] Shop
-    - [ ] OPP
+    - [ ] 3d image
 
-See the [open issues](https://github.com/webagent-dev/car-dealer-site/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/webagent-dev/shoe-shop/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -141,4 +139,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 webagent24@gmail.com
 
-Project Link: [https://github.com/webagent-dev/car-dealer-site]()
+Project Link: [https://github.com/webagent-dev/shoe-shop]()
+![shop-shop](https://user-images.githubusercontent.com/78637825/165240052-ccb3918b-7374-4c9c-a89e-d3a6ed9b5d59.png)
